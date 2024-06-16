@@ -1,0 +1,23 @@
+.navbar-nav a{
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+  
+}
+.categoryGrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 2rem;
+  list-style: none;
+}
+.categoryGrid img{
+  width: 90%;
+}
+.portion{
+  width: 80%;
+  margin: auto;
+}
+/* .productsList{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+} */
